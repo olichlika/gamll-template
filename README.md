@@ -25,3 +25,8 @@ spring.dubbo.consumer.timeout=600000
 spring.dubbo.consumer.check=false
 ```
 
+# 使用
+```
+git clone https://github.com/sferik/sign-in-with-twitter.git xxx
+```
+`xxx`是本地的项目名称

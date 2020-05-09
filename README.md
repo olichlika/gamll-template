@@ -27,6 +27,6 @@ spring.dubbo.consumer.check=false
 
 # 使用
 ```
-git clone https://github.com/sferik/sign-in-with-twitter.git xxx
+git clone git@github.com:olichlika/gamll-template.git xxx
 ```
 `xxx`是本地的项目名称
